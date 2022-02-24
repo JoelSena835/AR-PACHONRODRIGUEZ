@@ -3,5 +3,4 @@ la informacion.
 - Teleinformatica.
 - Logistica.
 - Mercadeo.
-- Industrias creativas.
-- Formacion complementaria. 
+ 
